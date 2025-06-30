@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Fugaz+One&display=swap');
 
 
 *{
@@ -82,8 +83,9 @@ main#m-content{
 }
 .g-section p{
     padding-bottom: 30px;
-    font-size: 1.3em;
+    font-size: 2em;
     line-height: 2em;
+    font-family: "Bad Script", cursive;
 }
 .div-img-section{
     background-color: rgba(0, 0, 0, 0.563);
